@@ -1,0 +1,4 @@
+rosecoinbase
+============
+
+Coinbase Integration Challenge
